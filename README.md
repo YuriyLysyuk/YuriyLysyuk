@@ -1,16 +1,14 @@
-### Hi there 👋
+![Hi, I'm Yuriy Lysyuk — Fronend Developer](header.png 'Yuriy Lysyuk — Frontend Developer')
 
-<!--
-**lysyuk/lysyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.codewars.com/users/lysyuk/" target="_blank">![Yuriy Lysyuk Codewars stats](https://www.codewars.com/users/lysyuk/badges/large)</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on solving kata on [codewars](https://github.com/lysyuk/codewars)!
+- 🌱 I'm currently learning JavaScript, React and other cool stuff!
+- 👯 I'm looking to collaborate on full stack web apps!
+- 🤔 I'm looking for help with JavaScript and React
+- 💬 Ask me about hiking, rafting, coffee and fantastic books
+- 📫 How to reach me:
+  - [Telegram](https://t.me/lysyuk_y)
+  - [VK](https://vk.com/lysyuk_y)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Even if you get eaten, you have two ways out
