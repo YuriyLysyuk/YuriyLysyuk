@@ -2,8 +2,8 @@
 
 <a href="https://www.codewars.com/users/lysyuk/" target="_blank">![Yuriy Lysyuk Codewars stats](https://www.codewars.com/users/lysyuk/badges/large)</a>
 
-- 🔭 I'm currently working on solving kata on [codewars](https://github.com/lysyuk/codewars)!
 - 🌱 I'm currently learning JavaScript, React and other cool stuff!
+- 🔭 I'm currently working on my [portfolio](https://github.com/lysyuk/portfolio) and solving kata on [codewars](https://github.com/lysyuk/codewars)!
 - 👯 I'm looking to collaborate on full stack web apps!
 - 🤔 I'm looking for help with JavaScript and React
 - 💬 Ask me about hiking, rafting, coffee and fantastic books
