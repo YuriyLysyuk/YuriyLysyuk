@@ -1,4 +1,4 @@
-![Hi, I'm Yuriy Lysyuk — Fronend Developer](header.png 'Yuriy Lysyuk — Frontend Developer')
+![Hi, I'm Yuriy Lysyuk — Front-end Developer](header.png 'Yuriy Lysyuk — Front-end Developer')
 
 <a href="https://www.codewars.com/users/lysyuk/" target="_blank">![Yuriy Lysyuk Codewars stats](https://www.codewars.com/users/lysyuk/badges/large)</a>
 
