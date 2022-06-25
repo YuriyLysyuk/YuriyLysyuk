@@ -6,7 +6,6 @@
 - 🤔 I'm looking for help with JavaScript and React
 - 💬 Ask me about hiking, rafting, coffee and fantastic books
 - 📫 How to reach me:
-  - [VK](https://vk.com/lysyuk_y)
   - [Telegram](https://t.me/YuriyLysyuk)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Even if you get eaten, you have two ways out
