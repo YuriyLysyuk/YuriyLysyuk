@@ -4,10 +4,8 @@
 - 🌱 I'm currently learning JavaScript, React, Webpack and other cool stuff!
 - 👯 I'm looking to collaborate on full stack web apps!
 - 🤔 I'm looking for help with JavaScript and React
-- 💬 Ask me about hiking, rafting, coffee and fantastic books
 - 📫 How to reach me:
   - [Telegram](https://t.me/YuriyLysyuk)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Even if you get eaten, you have two ways out
 
 <a href="https://www.codewars.com/users/YuriyLysyuk" target="_blank">![Yuriy Lysyuk Codewars stats](https://www.codewars.com/users/YuriyLysyuk/badges/large)</a>
