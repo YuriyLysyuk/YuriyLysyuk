@@ -1,11 +1,10 @@
-![Hi, I'm Yuriy Lysyuk — Front-end Developer](header.png 'Yuriy Lysyuk — Front-end Developer')
+![Привет, я Юрий Лысюк — Front-end developer](header.png 'Юрий Лысюк — Фронтенд-разработчик')
 
-- 🔭 I'm currently working on my [portfolio](https://github.com/lysyuk/portfolio) and solving kata on [codewars](https://www.codewars.com/users/YuriyLysyuk)!
-- 🌱 I'm currently learning JavaScript, React, Webpack and other cool stuff!
-- 👯 I'm looking to collaborate on full stack web apps!
-- 🤔 I'm looking for help with JavaScript and React
-- 📫 How to reach me:
+- 🔭 Работаю над своим [портфолио](https://github.com/lysyuk/portfolio), похожим на редактор кода и решаю задачки на [codewars](https://www.codewars.com/users/YuriyLysyuk)
+- 🌱 Изучаю JavaScript, React, Webpack и другие клевые штуки
+- 👯 Ищу возможность поработать над полезным проектом в продуктовой компании
+- 📫 Как найти меня:
   - [Telegram](https://t.me/YuriyLysyuk)
-- ⚡ Fun fact: Even if you get eaten, you have two ways out
+- ⚡ Даже если вас съели, у вас есть два варианта выхода :)
 
-<a href="https://www.codewars.com/users/YuriyLysyuk" target="_blank">![Yuriy Lysyuk Codewars stats](https://www.codewars.com/users/YuriyLysyuk/badges/large)</a>
+<a href="https://www.codewars.com/users/YuriyLysyuk" target="_blank">![Статистика Лысюка Юрия на Codewars](https://www.codewars.com/users/YuriyLysyuk/badges/large)</a>
