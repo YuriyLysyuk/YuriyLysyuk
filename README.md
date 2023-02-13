@@ -1,11 +1,9 @@
-![Hi all, I am Yuriy Lysyuk — Front-end developer](header.png 'Yuriy Lysyuk — Front-end Developer')
+![Привет, Я Юрий Лысюк — Фронтенд-разработчик](header.png 'Юрий Лысюк — Фронтенд-разработчик')
 
-- 🔭 I'm currently working on my [portfolio](https://github.com/lysyuk/portfolio) and solving kata on [codewars](https://www.codewars.com/users/YuriyLysyuk)!
-- 🌱 I'm currently learning JavaScript, React, Webpack and other cool stuff!
-- 👯 I'm looking to collaborate on full stack web apps in product company
-- 📫 How to reach me:
-  - [Telegram](https://t.me/YuriyLysyuk)
-  - [LinkedIn](https://www.linkedin.com/in/YuriyLysyuk)
-- ⚡ Fun fact: Even if you get eaten, you have two ways out
+- 💪 В данный момент прокачиваю [Алгоритмы 3.0](https://yandex.ru/yaintern/algorithm-training) от Яндекса и развиваю [сервис поиска выгодного расчетного счета](https://rko.guru) для малого бизнеса
+- 🌱 Изучаю JavaScript, TypeScript, Node.js, React и его экосистему!
+- 👯 Ищу интересный и полезный для общества проект в продуктовой компании с сильной и отзывчивой командой
+- 🔎 Связаться со мной можно через [Telegram](https://t.me/YuriyLysyuk)
+- ⚡ Даже если вас съели, у вас есть два варианта выхода :)
 
 <a href="https://www.codewars.com/users/YuriyLysyuk" target="_blank">![ Yuriy Lysyuk's Codewars stats](https://www.codewars.com/users/YuriyLysyuk/badges/large)</a>
